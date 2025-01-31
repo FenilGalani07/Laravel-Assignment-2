@@ -117,8 +117,10 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## Author
 
-- **Fenil Galani**  
-  [GitHub Profile](https://github.com/FenilGalani07)  
+- **Fenil Galani**
+  
+  [GitHub Profile](https://github.com/FenilGalani07)
+
   Email: fenilgalani111@gmail.com
 
 ## Acknowledgments
