@@ -6,6 +6,7 @@ if (isset($_COOKIE['username'])) {
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $username = $_POST['username'];
         setcookie('username', $username, time() + 3600);
+        
     }
 }
 ?>
