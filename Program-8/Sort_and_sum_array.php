@@ -14,6 +14,7 @@
     <?php
     function sortAndSumArray($inputArray)
         {
+        
         rsort($inputArray);
         $sum = array_sum($inputArray);
         echo 'Sorted Array (Descending): ';
